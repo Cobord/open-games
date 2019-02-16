@@ -1,6 +1,8 @@
 {-# LANGUAGE GADTs #-}
 {-# LANGUAGE MultiParamTypeClasses, FlexibleInstances #-}
 
+--http://www.cs.ox.ac.uk/people/julian.hedges/papers/Thesis.pdf
+
 module OpenGames(
 OpenGame(..)
 )where
